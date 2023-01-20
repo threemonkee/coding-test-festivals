@@ -2,7 +2,7 @@
 Coding Test Festivals
 
 ### Getting Started
-1. Make sure you have latest Xcode installed
+1. Make sure you have latest Xcode installed. This Playground was made using Xcode 14.2.
 2. Clone the repo
 3. Open `CodingTest.playground` file
 4. Run playground. Result will be seen on console on the bottom side.
